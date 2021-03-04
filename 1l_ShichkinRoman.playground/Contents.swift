@@ -12,9 +12,9 @@ let a: Double = 3
 let b: Double = 7
 let c: Double = -10
 
-let D: Double = pow(b, 2) - (4 * a * c)
+let D: Double = pow(b, 2) - (4*a*c)
 
-let x: [Double] = [(-b + sqrt(D))/2*a,(-b-sqrt(D))/2*a]
+let x: [Double] = [(-b + sqrt(D))/(2*a),(-b - sqrt(D))/(2*a)]
 
 // площать треугольника S = (ab)/2
 // периметр треугольника P = a + b + c
