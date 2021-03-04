@@ -11,3 +11,4 @@ import UIKit
 var str = "Hello, playground"
 
 // изменения для commit
+// ещё изменения для commit
